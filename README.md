@@ -1,2 +1,2 @@
-# landing-page-springdevs
+# landing-page
 Html/CSS
